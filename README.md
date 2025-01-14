@@ -14,6 +14,7 @@
 <img align="center" alt="Css-3" height="32" widt="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain.svg">
 <img align="center" alt="Css-3" height="32" widt="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg">
 <img align="center" alt="Css-3" height="32" widt="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
+<img align="center" alt="Css-3" height="32" widt="60" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngwing.com%2Fen%2Fsearch%3Fq%3Dangularjs&psig=AOvVaw0PFW3RYzPpLtWxCK1rpXri&ust=1736982907690000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCNjVud2r9ooDFQAAAAAdAAAAABAE">
 </div>
 
 ##
